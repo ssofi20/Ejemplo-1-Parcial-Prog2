@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1726782854 source:e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\archivoserviciomesa.cpp
+	"Fecha.h"
+	"ArchivoServicioMesa.h"
+
+1726783150 e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\fecha.h
+	<string>
+
+1726783156 e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\archivoserviciomesa.h
+	<string>
+	"ServicioMesa.h"
+
+1726783162 e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\serviciomesa.h
+	"Fecha.h"
+
+1726782052 source:e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\fecha.cpp
+	"Fecha.h"
+
+1747187046 source:e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\main.cpp
+	"Examen.h"
+
+1747187050 e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\examen.h
+
+1727122544 source:e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\serviciomesa.cpp
+	"ServicioMesa.h"
+
+1747187178 source:e:\utn\programaciòn 2\1c 2025\modelo 1 parcial\restaurant\examen.cpp
+	<iostream>
+	"Examen.h"
+	"ServicioMesa.h"
+	"ArchivoServicioMesa.h"
+
